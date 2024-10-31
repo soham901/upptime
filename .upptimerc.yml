@@ -3,8 +3,10 @@ owner: soham901
 repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: DevLoop public site
+    url: https://soham-devloop.vercel.app
+  - name: DevLoop: LMS
+    url: https://lms.soham901.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
