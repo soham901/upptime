@@ -5,7 +5,7 @@ repo: upptime
 sites:
   - name: DevLoop public site
     url: https://soham-devloop.vercel.app
-  - name: DevLoop LMS
+  - name: DevLoop LMS site
     url: https://lms.soham901.me
 
 status-website:
