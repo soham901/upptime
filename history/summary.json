@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 70,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "time": 133,
+    "timeDay": 94,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lms.soham901.me.ico",
     "slug": "dev-loop-lms-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "80.65%",
+    "uptimeDay": "5.52%",
+    "uptimeWeek": "80.65%",
+    "uptimeMonth": "80.65%",
+    "uptimeYear": "80.65%",
     "time": 227,
-    "timeDay": 290,
+    "timeDay": 0,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-05": 102,
+      "2024-11-04": 1258
     }
   }
 ]
