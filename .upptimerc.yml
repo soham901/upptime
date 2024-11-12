@@ -4,7 +4,7 @@ repo: upptime
 
 sites:
   - name: DevLoop public site
-    url: https://soham-devloop.vercel.app
+    url: https://devloop.soham901.me
   - name: DevLoop LMS site
     url: https://lms.soham901.me
   - name: Code Bhajia (mini leetcode clone)
