@@ -7,6 +7,8 @@ sites:
     url: https://soham-devloop.vercel.app
   - name: DevLoop LMS site
     url: https://lms.soham901.me
+  - name: Code Bhajia (mini leetcode clone)
+    url: https://codebhajia.soham901.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
