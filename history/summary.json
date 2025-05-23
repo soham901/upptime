@@ -4,17 +4,19 @@
     "url": "https://superlabs-v2.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/superlabs-v2.onrender.com.ico",
     "slug": "super-labs-v2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 994,
-    "timeWeek": 994,
-    "timeMonth": 994,
-    "timeYear": 994,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
+    "time": 1027,
+    "timeDay": 1027,
+    "timeWeek": 1027,
+    "timeMonth": 1027,
+    "timeYear": 1027,
+    "dailyMinutesDown": {
+      "2025-05-23": 11
+    }
   }
 ]
